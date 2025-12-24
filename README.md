@@ -1,6 +1,6 @@
-# 🧠 Alzheimer Detection App (Streamlit Deployment)
+# Skin Disease Detection App (Streamlit Deployment)
 
-This repository contains a **Streamlit web application** for **Alzheimer's Disease Detection**, deployed using **Streamlit Community Cloud**.  
+This repository contains a **Streamlit web application** for **Skin Disease Detection**, deployed using **Streamlit Community Cloud**.  
 The app demonstrates deep learning models (ResNet-101, ConvNeXt Base, CNN Scratch) integrated into an interactive dashboard.
 
 🔗 **Live App:**  
